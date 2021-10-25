@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.cards {
+    max-width: 358px;
+    min-height: 400px;
+    border: 1px solid grey;
+    margin: 10px;
+}
+
+.hotel-service {
+    max-width: 360px;
+    background-repeat: no-repeat;
+    min-height: 250px;
+    background-image: url(./hotel\ Image\ 2021-10-25\ at\ 20.46.37.jpeg)
+}
+
+.discription {
+    padding: 0px 2em;
+}
+
+.cards h3 {
+    font-family: sans-serif;
+    color: blue;
+}
+
+.cards p {
+    font-family: sans-serif;
+}
+
+.flight {
+    max-width: 360px;
+    background-image: url(./istockphoto-155439315-170667a.jpg);
+    background-repeat: no-repeat;
+    min-height: 250px;
+    background-size: 357px;
+}
+
+.reservations {
+    max-width: 360px;
+    background-image: url(./young-man-spa\ 2021-10-25\ at\ 21.48.44.jpeg);
+    background-repeat: no-repeat;
+    min-height: 250px;
+    background-size: 358px;
+}
